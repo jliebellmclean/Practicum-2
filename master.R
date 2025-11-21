@@ -19,7 +19,7 @@ library(sf)
 # Set the working directory
 setwd("C:\\Users\\julia\\OneDrive\\Documents\\GitHub\\Practicum-2")
 
-# Read in the county shapefile data
+# Read in the county shapefile data which is available from the Census (or the class drive)
 county_all <- st_read("data/cb_2024_us_county_500k.shp")
 
 # Filter to just New York

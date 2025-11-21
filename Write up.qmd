@@ -1,0 +1,44 @@
+---
+title: "Practicum 2 Write Up"
+format:
+  html: default
+  pdf: default
+  docx: default
+  rtf: default
+---
+Julia Liebell-McLean
+
+November 20, 2025
+
+Let's start off with a basic map of the 62 counties in New York.
+
+![Figure 1](figures/counties.png)
+
+# Part I: High Points
+
+Here is the map of high points in New York State. The scale on the right indicates the color shading. The highest peak, indicated in white, is Mount Marcy, located in Essex County with an elevation of 5344 feet. The lowest high point is Battle Hill in Kings County. It has an elevation of 220 feet.
+
+![Figure 2](figures/peaks.png)
+
+# Part II: County Population
+
+Below is the map of county population by county. The most populous county is Kings County and the least populous is Hamilton.
+
+![Figure 3](figures/population.png)
+
+# Part III: County Population Density
+
+Next up is population density. The map below shows population density, shaded where darker purples indicated higher density. Notice how dark it is in New York City. Indeed, the most dense county is New York County (Manhattan), and the least dense is Hamilton.
+
+![Figure 4](figures/density.png)
+
+# Presidential Elections
+
+Here is a set of six maps that show the results of six presidential elections between 2000 and 2020. The counties are shaded according to partisan lean with white counties representing bipartisan areas.
+
+![Figure 5](figures/partisan.png)
+You can certainly pick out the elections where Obama won: the blue northeast reveals more Democratic support. Similarly, Trump's victory in 2016 is reflected in many more red counties, and also deeper red counties.
+
+Over time, Western New York remains quite red (excluding Buffalo). Similarly, New York City, although hard to see on the map because it is so condensed (see maps about population density earlier) remains very, very blue. In my graphs, I included a grey outline because otherwise you can't see Long Island in 2012 or 2020. But the graph border definitely makes the blue of New York, Kings, Queens, and Bronx counties harder to see.
+
+Like I said, I changed the outline color to grey to capture Long Island in 2020. It's noticeable that those counties were pretty clearly blue in 2000 and remained mostly blue through the Obama years before shifting red. 

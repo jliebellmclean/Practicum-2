@@ -1,0 +1,15 @@
+Practicum 2: AI Documentation
+
+1) Used Copilot to give me the arrange command to sort my county populations
+
+2) Used Copilot to help change from the viridis scale to one with yellows and 
+oranges and to add in a white background for the figures
+
+3) Used Copilot to change from solid colors on my peak points to a gradient and 
+remind myself of the the shape code necessary to get a triangle.
+
+4) I created the dataframe for the election years myself, pulling information 
+from the data we had, calculating vote percentages and then partisan lean. But I
+used Copilot to give me the fact_wrap code to get everything on the same page.
+I subsequently adjusted the code to change the colors how I wanted, specify a 
+midpoint of 0, and change the labeling.
